@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJUjXwPFecE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dolfelive\\source\\repos\\UltraTAS\\UltraTAS\\UltraTAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dolfelive\\.nuget\\packages\\krafs.publicizer\\2.2.1\\krafs.publicizer.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
